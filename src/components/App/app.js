@@ -7,7 +7,8 @@ import Blog from "../Blog/blog.js";
 import Work from "../Work/work.js";
 import Talks from "../Talks/talks.js";
 import NotFound from "../NotFound/404.js";
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { HashRouter as Router, Routes, Route } from "react-router-dom";
+/* import { BrowserRouter as Router, Routes, Route } from "react-router-dom"; */
 import { ChakraProvider } from "@chakra-ui/react";
 import customTheme from "../Theme/theme.js";
 
