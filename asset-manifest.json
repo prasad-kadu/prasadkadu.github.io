@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/mysite-main/static/css/main.775f491b.css",
-    "main.js": "/mysite-main/static/js/main.2820becb.js",
-    "static/js/787.9b9c0edf.chunk.js": "/mysite-main/static/js/787.9b9c0edf.chunk.js",
-    "static/media/headshot.jpg": "/mysite-main/static/media/headshot.c6af4fb63b343fad9e80.jpg",
-    "index.html": "/mysite-main/index.html",
-    "main.775f491b.css.map": "/mysite-main/static/css/main.775f491b.css.map",
-    "main.2820becb.js.map": "/mysite-main/static/js/main.2820becb.js.map",
-    "787.9b9c0edf.chunk.js.map": "/mysite-main/static/js/787.9b9c0edf.chunk.js.map"
+    "main.css": "/prasadkadu/static/css/main.775f491b.css",
+    "main.js": "/prasadkadu/static/js/main.8236c553.js",
+    "static/js/787.9b9c0edf.chunk.js": "/prasadkadu/static/js/787.9b9c0edf.chunk.js",
+    "static/media/headshot.jpg": "/prasadkadu/static/media/headshot.c6af4fb63b343fad9e80.jpg",
+    "index.html": "/prasadkadu/index.html",
+    "main.775f491b.css.map": "/prasadkadu/static/css/main.775f491b.css.map",
+    "main.8236c553.js.map": "/prasadkadu/static/js/main.8236c553.js.map",
+    "787.9b9c0edf.chunk.js.map": "/prasadkadu/static/js/787.9b9c0edf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.775f491b.css",
-    "static/js/main.2820becb.js"
+    "static/js/main.8236c553.js"
   ]
 }
