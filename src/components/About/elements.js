@@ -58,7 +58,7 @@ const bio = () => {
     <Box className="article" as="div">
       <Text>
         नमस्ते! In Hindi, that means hello, much like the first word every coder
-        whispers to the world in their inaugural program. It&apos;s a word that
+        speaks to the world in their inaugural program. It&apos;s a word that
         marked the start of my journey, a journey that recently reached a
         significant milestone with the completion of my Master&apos;s in
         Cybersecurity at the{" "}
